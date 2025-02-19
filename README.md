@@ -1,6 +1,6 @@
-# The Impact of Inference Acceleration Strategies on Bias of LLMs
+# The Impact of Inference Acceleration on Bias of LLMs
 
-This repository provides the code for the paper ["The Impact of Inference Acceleration Strategies on Bias of LLMs"](https://arxiv.org/pdf/2410.22118) [1].
+This repository provides the code for the paper ["The Impact of Inference Acceleration on Bias of LLMs"](https://arxiv.org/pdf/2410.22118) [1].
 
 We analyze how inference acceleration techniques, such as quantization and pruning, impact bias measurements across various benchmarks.
 
@@ -92,7 +92,7 @@ Install requirements
 
 ### References
 
-1. [The Impact of Inference Acceleration Strategies on Bias of LLMs](https://arxiv.org/pdf/2410.22118)
+1. [The Impact of Inference Acceleration on Bias of LLMs](https://arxiv.org/pdf/2410.22118)
 
     Kirsten, E., Habernal, I., Nanda, V., & Zafar, M. B. (2024). The Impact of Inference Acceleration Strategies on Bias of LLMs. arXiv preprint arXiv:2410.22118.
 
