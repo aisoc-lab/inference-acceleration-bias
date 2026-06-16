@@ -107,3 +107,17 @@ Install requirements
 6. Moayeri, M., Tabassi, E., & Feizi, S. (2024, June). WorldBench: Quantifying Geographic Disparities in LLM Factual Recall. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (pp. 1211-1228).
 
 7. Sun, M., Liu, Z., Bair, A., & Kolter, J. Z. (2023). A simple and effective pruning approach for large language models. arXiv preprint arXiv:2306.11695.
+
+### Citing This Work
+
+If you found this repository useful, please consider citing:
+
+```bibtex
+@inproceedings{kirsten2025impact,
+  title={The Impact of Inference Acceleration on Bias of LLMs},
+  author={Kirsten, Elisabeth and Habernal, Ivan and Nanda, Vedant and Zafar, Muhammad Bilal},
+  booktitle={Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)},
+  pages={1834--1853},
+  year={2025}
+}
+```
